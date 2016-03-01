@@ -1,4 +1,4 @@
-package memento.tutorialspoint;
+package Memento.tutorialspoint;
 
 /**
  * Created by jwizard on 2016. 2. 23..

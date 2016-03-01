@@ -1,4 +1,4 @@
-package template_method.tutorialpoint;
+package Template_method.tutorialspoint;
 
 public class Football extends Game {
 

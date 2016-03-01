@@ -1,4 +1,4 @@
-package interpreter.zetawiki;
+package Interpreter.zetawiki;
 
 import java.util.Stack;
 

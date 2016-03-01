@@ -1,4 +1,4 @@
-package fly_weight.zum_blog;
+package Fly_weight.zum_blog;
 
 import java.util.HashMap;
 import java.util.Map;

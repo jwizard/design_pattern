@@ -1,4 +1,4 @@
-package fly_weight.en_wiki;
+package Fly_weight.en_wiki;
 
 // Instances of fly_weight.en_wiki.CoffeeFlavour will be the Flyweights
 class CoffeeFlavour {

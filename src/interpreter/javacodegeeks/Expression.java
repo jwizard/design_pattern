@@ -1,4 +1,4 @@
-package interpreter.javacodegeeks;
+package Interpreter.javacodegeeks;
 
 /**
  * Created by jwizard on 2016. 2. 17..

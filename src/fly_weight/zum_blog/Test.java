@@ -1,4 +1,4 @@
-package fly_weight.zum_blog;
+package Fly_weight.zum_blog;
 
 /**
  * Created by jwizard on 2016. 2. 3..

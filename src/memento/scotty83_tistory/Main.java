@@ -1,4 +1,4 @@
-package memento.scotty83_tistory;
+package Memento.scotty83_tistory;
 
 /**
  * Created by jwizard on 2016. 2. 23..

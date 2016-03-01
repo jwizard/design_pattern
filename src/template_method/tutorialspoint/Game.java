@@ -1,4 +1,4 @@
-package template_method.tutorialpoint;
+package Template_method.tutorialspoint;
 
 public abstract class Game {
     abstract void initialize();

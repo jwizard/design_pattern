@@ -1,4 +1,4 @@
-package fly_weight.en_wiki;
+package Fly_weight.en_wiki;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

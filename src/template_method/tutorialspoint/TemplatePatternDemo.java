@@ -1,4 +1,4 @@
-package template_method.tutorialpoint;
+package Template_method.tutorialspoint;
 
 public class TemplatePatternDemo {
     public static void main(String[] args) {

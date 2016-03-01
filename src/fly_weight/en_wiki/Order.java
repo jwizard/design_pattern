@@ -1,4 +1,4 @@
-package fly_weight.en_wiki;
+package Fly_weight.en_wiki;
 
 class Order {
     private final int tableNumber;

@@ -38,4 +38,4 @@
 
 ## References
 - https://en.wikipedia.org/wiki/Memento_pattern (wikipedia)
-- http://www.tutorialspoint.com/design_pattern/memento_pattern.htm (tutorialpoint)
+- http://www.tutorialspoint.com/design_pattern/memento_pattern.htm (template.tutorialpoint)

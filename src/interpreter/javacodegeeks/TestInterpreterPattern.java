@@ -1,4 +1,4 @@
-package interpreter.javacodegeeks;
+package Interpreter.javacodegeeks;
 
 import java.util.Stack;
 
